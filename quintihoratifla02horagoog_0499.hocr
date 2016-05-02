@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratifla02horagoog_0499.png"; bbox 0 0 2690 4169; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1735 3978 2272 4085">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1735 3978 2272 4085">
+     <span class='ocr_line' id='line_1_1' title="bbox 1735 3978 2272 4085; baseline 0 -32"><span class='ocrx_word' id='word_1_1' title='bbox 1735 4023 1888 4061; x_wconf 41' lang='grc' dir='ltr'>[ηψπ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1905 3978 2272 4085; x_wconf 49' lang='lat' dir='ltr'>bycoogle</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 186 364 2277 3417">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 186 364 2277 3417">
+     <span class='ocr_line' id='line_1_2' title="bbox 186 364 2277 3417; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 186 364 2277 3417; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2313 1486 2382 2217">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2313 1486 2382 2217">
+     <span class='ocr_line' id='line_1_3' title="bbox 2313 1486 2382 2217; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2330 2053 2382 2217; x_wconf 79' lang='lat' dir='ltr'>Champ</span> <span class='ocrx_word' id='word_1_5' title='bbox 2326 1972 2365 2024; x_wconf 81' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_6' title='bbox 2323 1828 2362 1942; x_wconf 78' lang='lat' dir='ltr'>Mars</span> <span class='ocrx_word' id='word_1_7' title='bbox 2313 1486 2374 1794; x_wconf 62' lang='lat' dir='ltr'><strong>(reconstitue).</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2672 1345 2683 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2672 1345 2683 1644">
+     <span class='ocr_line' id='line_1_4' title="bbox 2672 1345 2683 1644; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 2673 1597 2677 1644; x_wconf 51' lang='grc' dir='ltr'>Ἀ*</span> <span class='ocrx_word' id='word_1_9' title='bbox 2672 1345 2683 1565; x_wconf 40' lang='grc' dir='ltr'>-ᾕ-Ὗ·μ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
